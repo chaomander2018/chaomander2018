@@ -1,9 +1,11 @@
 ---
 layout: post
-title: You're up and running!
+title: Nice to meet you!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Hello everyone. My name is Chao, and I come from a Marketing/Advertising background. It really interests me that Data Science can be used for Recommendation Systems for online businesses/websites. I hope I can create a Recommendation System after this MDS program.
+
+Cheers
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
