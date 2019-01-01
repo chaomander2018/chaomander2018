@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi there, my name is Chao and I am new to Data Science. I have been working in digital marketing/analytics for 3+ years and my passion of learning more about data guided me to UBC Master of Data Science program.
 
 ### More Information
 
@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email me](mailto:374818352@qq.com)
