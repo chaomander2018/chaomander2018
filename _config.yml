@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Chao
+name: Chao Wang
 
 # Short bio or description (displayed in the header)
-description: MDS Student
+description: Data Scientist, Digital Marketing Professional, Crafty Person
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars0.githubusercontent.com/u/42956545?s=400&u=dc5b87e7ccb787a97386ae4b4bab3ea85dc49c5e&v=4
@@ -23,7 +23,7 @@ footer-links:
   flickr:
   github: chaomander2018
   instagram:
-  linkedin:
+  linkedin:https://www.linkedin.com/in/chao-wang-uvic/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter:
