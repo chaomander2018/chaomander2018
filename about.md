@@ -4,11 +4,19 @@ title: About
 permalink: /about/
 ---
 
-Hi there, my name is Chao and I am new to Data Science. I have been working in digital marketing/analytics for 3+ years and my passion of learning more about data guided me to UBC Master of Data Science program.
+### About me
 
-### More Information
+- Master Of Data Science at University of British Columbia
+- Bachelor of Commer at University of Victoria
+- Cross functional between Digital Marketing and Data Science
 
-A place to include any other types of information that you'd like to include about yourself.
+### More about me
+
+- I love to travel when I have :moneybag:
+- I care deeply about the planet. :deciduous_tree: & :honeybee:.
+- I love talking to people from everywhere around the world.
+- I play pinao :notes: and paint canvas :art:
+
 
 ### Contact me
 
