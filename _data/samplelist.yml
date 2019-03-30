@@ -1,0 +1,8 @@
+docs_list_title: ACME Documentation
+docs:
+
+- title: How To Organize A Data Science Event
+  url: https://chaomander2018.github.io/how-to-organize-a-data-science-event/
+
+- title: A Journey Into The Heart Of Recommender Systems
+  url: https://chaomander2018.github.io/a-Journey-into-the-heart-of-recommender-systems/
