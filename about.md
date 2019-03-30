@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-### About me
-
 - Master Of Data Science at University of British Columbia
 - Bachelor of Commer at University of Victoria
 - Cross functional between Digital Marketing and Data Science
@@ -19,5 +17,6 @@ permalink: /about/
 
 
 ### Contact me
+If you'd like to contact me in person or intersted in consultation works, please [email me](mailto:374818352@qq.com)
 
-[email me](mailto:374818352@qq.com)
+![painting](../images/painting.png)
