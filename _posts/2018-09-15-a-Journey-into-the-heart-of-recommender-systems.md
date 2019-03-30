@@ -1,7 +1,3 @@
-
-# A Journey into the Heart of Recommender Systems
-
-
 #### Author : Chao Wang
 #### Date: September 15, 2018
 
